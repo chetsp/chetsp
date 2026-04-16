@@ -1,4 +1,4 @@
-# Hi there, I'm Chetana Patel 👋
+# Hi there, I'm Chetana 👋
 
 ### Senior Software Engineer → Machine Learning Engineer in Progress 🚀
 
