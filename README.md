@@ -1,12 +1,12 @@
 <div align="center">
 
-# Hi, I'm YOUR NAME 👋
+# Hi, I'm Chetana Patel 👋
 
 **Software Engineer · Distributed Systems · LLM Applications**
 
 MS Computer Science (Machine Learning), George Mason University
 
-[LinkedIn](https://www.linkedin.com/in/YOUR-HANDLE) · [Resume](https://YOUR-RESUME-LINK.pdf) · [Email](mailto:YOUR-EMAIL)
+[LinkedIn](https://www.linkedin.com/in/cschetanapatel)
 
 </div>
 
